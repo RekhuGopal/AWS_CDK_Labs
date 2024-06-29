@@ -4,7 +4,7 @@ This repo helps you to onboard to AWS CDK learning
 ## Install AWS CDK in Windows (npm is pre-requisites)
 1. npm install -g aws-cdk
 2. aws configure (AWS CLI)
-2. cdk bootstrap aws://<Account Number>/<Region>
+2. cdk bootstrap aws://<AccountNumber>/<Region>
 
 ## Commands AWS CDK ( Run venv)
 1. mkdir <project-name>
